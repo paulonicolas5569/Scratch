@@ -6,3 +6,6 @@
 Introdução a logica de programação com o scratch 
 ## Autor 
 Paulo Nicolas Dos Santos 
+
+## Projetos 
+[ Calculo da media ](https://scratch.mit.edu/projects/881965871/)
