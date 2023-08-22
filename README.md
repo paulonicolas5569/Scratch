@@ -8,4 +8,5 @@ Introdução a logica de programação com o scratch
 Paulo Nicolas Dos Santos 
 
 ## Projetos 
-[ Calculo da media ](https://scratch.mit.edu/projects/881965871/)
+- [ Calculo da media ](https://scratch.mit.edu/projects/881965871/)
+- [ Calculo da temperatura ](https://scratch.mit.edu/projects/882919042/)
