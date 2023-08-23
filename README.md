@@ -16,3 +16,4 @@ Paulo Nicolas Dos Santos
 - [PDV](https://scratch.mit.edu/projects/883244150/)
 - [regras de 3](https://scratch.mit.edu/projects/882607831/)
 - [Scratch Project](https://scratch.mit.edu/projects/881964713/)
+- [horas técnicas ](https://scratch.mit.edu/projects/884965295/)
