@@ -18,5 +18,5 @@ Paulo Nicolas Dos Santos
 - [Scratch Project](https://scratch.mit.edu/projects/881964713)
 - [horas técnicas](https://scratch.mit.edu/projects/884965295)
 
-  ## a hora do codigo
+  ## A hora do codigo
   ![certificado](https://github.com/paulonicolas5569/Scratch/blob/main/assets/icons/eyJuYW1lIjoiUGF1bG8gTmljb2xhcyBkb3MgU2FudG9zIiwiY291cnNlIjoiaG91cm9mY29kZSIsImRvbm9yIjoiUHJpY2V3YXRlcmhvdXNlQ29vcGVycyJ9%20(1).jpg)
