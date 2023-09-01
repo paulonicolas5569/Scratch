@@ -19,6 +19,9 @@ Paulo Nicolas Dos Santos
 - [horas técnicas](https://scratch.mit.edu/projects/884965295)
 - [etanol x gasolina](https://scratch.mit.edu/projects/887262879)
 - [postinho](https://scratch.mit.edu/projects/887248400)
+- [AND](https://scratch.mit.edu/projects/888049549)
+- [OR](https://scratch.mit.edu/projects/888081962)
+-[NOD](https://scratch.mit.edu/projects/888081207)
 
   ## A hora do codigo
   ![certificado](https://github.com/paulonicolas5569/Scratch/blob/main/assets/icons/eyJuYW1lIjoiUGF1bG8gTmljb2xhcyBkb3MgU2FudG9zIiwiY291cnNlIjoiaG91cm9mY29kZSIsImRvbm9yIjoiUHJpY2V3YXRlcmhvdXNlQ29vcGVycyJ9%20(1).jpg)
